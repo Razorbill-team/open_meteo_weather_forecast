@@ -1,0 +1,2 @@
+# Linux line endings for every text file, also when checked out on Windows
+* text=auto eol=lf

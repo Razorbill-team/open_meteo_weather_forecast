@@ -1,0 +1,7 @@
+# Versions the collector was built and tested with (Python 3.13; needs Python >= 3.11, pandas 3)
+pandas==3.0.5
+requests==2.34.2
+SQLAlchemy==2.0.52
+psycopg2-binary==2.9.13
+python-dotenv==1.2.3
+tzdata==2026.3                      # time zones without the system database
